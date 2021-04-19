@@ -1,1 +1,4 @@
 [[36m2021-04-19 07:19:17[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] https://webapp.growingio.com
+[[36m2021-04-19 07:26:43[0m] [[92maws-bucket-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] http://realtime-tracker.fiksu.com
+[[36m2021-04-19 07:26:43[0m] [[92mpantheon-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] http://www-dev.fiksu.com
+[[36m2021-04-19 07:26:43[0m] [[92mpantheon-takeover[0m] [[94mhttp[0m] [[38;5;208mhigh[0m] http://www-test.fiksu.com
