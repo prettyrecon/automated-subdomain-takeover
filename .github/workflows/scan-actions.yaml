@@ -38,6 +38,7 @@ jobs:
 
       - name: Running Scanner
         run: |
+          nuclei -update-templates
           subfinder -silent -dL input/domains.txt -config config/subfinder-config.yaml | anew output/passive_subdomains.txt | httpx -silent | anew active_urls.txt | nuclei -silent -t nuclei-templates/takeovers/ | anew output/nuclei_output.txt
         shell: bash
 
